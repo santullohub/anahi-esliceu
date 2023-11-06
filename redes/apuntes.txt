@@ -1,0 +1,140 @@
+﻿________________
+
+
+EXERCICIS CAPA OSI
+________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Anahí Santullo Lorenzo
+Xarxes locals
+24/10/2023
+ÍNDEX
+
+
+Exercici 1        3
+Exercici 2        4
+Exercici 3        4
+
+
+________________
+Exercici 1
+Enumera similituds i diferències entre el model OSI i el model actual TCP/IP. 
+
+
+Tant el model OSI (Open Systems Interconnection) com el model TCP/IP (Transmission Control Protocol/Internet Protocol) són marcs conceptuals que defineixen com les xarxes de computadores han de comunicar-se. A continuació, es presenten algunes similituds i diferències importants entre els dos models:
+
+
+Similituds:
+1. Divisió en capes: Tant el model OSI com el model TCP/IP divideixen el procés de comunicació en capes o nivells, cada una amb funcions específiques. Aquest enfocament permet la modularitat i la facilitat d'implementació.
+
+
+2. Comunicació de dades: Tots dos models estan dissenyats per permetre la transmissió fiable de dades a través de les xarxes de computadores.
+
+
+3. Estàndards oberts: Tant OSI com TCP/IP són estàndards oberts, el que significa que les seves especificacions són públiques i poden ser utilitzades per qualsevol fabricant d'equips de xarxa.
+
+
+4. Compatibilitat: Els dos models poden ser fets servirs per diverses tecnologies de xarxa i no estan lligats a un tipus específic de mitjà de transmissió.
+
+
+
+
+Diferències:
+1. Nombre de capes: El model OSI consta de set capes (de la capa física a la capa d'aplicació), mentre que el model TCP/IP té quatre capes (de l'enllaç d'Internet a l'aplicació).
+
+
+2. Nomenclatura de les capes: Les capes en els dos models tenen noms diferents. Per exemple, la segona capa en OSI es diu "capa d'enllaç de dades", mentre que en TCP/IP és la "capa d'Internet".
+
+
+3. Flexibilitat: El model TCP/IP és més flexible i permet adaptar-se millor a les tecnologies emergents i als canvis en les xarxes de computadores, ja que va ser desenvolupat en el context del creixent ús d'Internet.
+
+
+4. Implementació pràctica: El model TCP/IP és més àmpliament utilitzat en la pràctica, ja que és el model subjacent d'Internet. Molts dels protocols que emprem avui en dia, com ara HTTP, FTP i SMTP, estan integrats en les capes més altes del model TCP/IP.
+
+
+5. Relació amb la realitat: Malgrat que el model OSI proporciona una estructura teòrica més detallada, el model TCP/IP és més pràctic i s'ajusta millor a com funcionen les xarxes en el món real, especialment a Internet.
+
+
+En resum, tots dos models ofereixen una manera de comprendre com les xarxes de computadores han de funcionar, però el model TCP/IP és més àmpliament emprat i s'ajusta millor als reptes contemporanis de les comunicacions en xarxa.
+
+
+Exercici 2
+Explica el funcionament dels protocols de capa 4 més importants pel transport de dades. En què es diferencien? Per a que s’empra cadascun d’ells avui dia?
+
+
+Els protocols més importants de la capa de transport són TCP (Transmission Control Protocol) i UDP (User Datagram Protocol).
+
+
+TCP és un protocol orientat a la connexió. Això significa que estableix una connexió fiable entre dues màquines abans de començar a enviar dades. Utilitza tècniques com la confirmació de rebuda i la retransmissió en cas de pèrdua de paquets per garantir que les dades es rebin de manera íntegra i en l'ordre correcte.
+Per altra banda, UDP és un protocol sense connexió, el que significa que no estableix una connexió prèvia abans d'enviar dades. Això fa que sigui més ràpid, ja que no té l'overhead associat amb l'establiment i la finalització de connexions.
+
+
+TCP és altament fiable gràcies al seu mecanisme de control de flux i a la confirmació de rebuda, mentre que és possible que els paquets UDP es perdin o arribin en un ordre diferent del que es van enviar, ja que no hi ha confirmacions de rebuda ni retransmissions automàtiques.
+A més, comparat amb UDP, TCP pot ser més lent, pel fet que implica més overhead degut a la seva naturalesa orientada a la connexió i als procediments de control.
+
+
+Avui dia, TCP s'utilitza en aplicacions on la fiabilitat i l'ordre d'arribada de les dades són crítics. Per exemple, es fa servir en navegadors web, correu electrònic, transferència de fitxers, i qualsevol aplicació on es requereixi garantir que totes les dades arribin correctament.
+UDP s'utilitza en aplicacions on la rapidesa és més important que la fiabilitat i on es poden tolerar algunes pèrdues de dades. Per exemple, es fa servir en aplicacions de transmissió de vídeo en temps real, videoconferències, jocs en línia i aplicacions de veu sobre IP (VoIP).
+
+
+En conclusió, la principal diferència entre TCP i UDP rau en la seva fiabilitat i velocitat. TCP ofereix una connexió fiable i és fet servir en aplicacions on l'ordre i la integritat de les dades són crucials, mentre que UDP és més ràpid i s'utilitza en aplicacions on la velocitat és més important que la fiabilitat i on es poden permetre algunes pèrdues de dades. L'elecció entre TCP i UDP depèn de les necessitats específiques de l'aplicació en qüestió.
+
+
+
+
+Exercici 3
+Relaciona els següents conceptes amb un nivells de model OSI:
+
+
+▪ Lliurament fiable de missatges procés a procés: Aquest concepte està relacionat amb la capa 4, coneguda com la Capa de Transport, responsable de garantir el lliurament fiable de missatges entre dos punts finals (processos) i pot utilitzar protocols com el TCP (Transmission Control Protocol) per aconseguir-ho.
+
+
+
+
+▪ Selecció de la ruta: La selecció de la ruta està relacionada amb la capa 3, la Capa de Xarxa. Aquesta capa és la que gestiona la determinació de la millor ruta per a l'enviament de dades a través de la xarxa. El protocol IP (Internet Protocol) és un exemple d'un protocol de la Capa de Xarxa que realitza aquesta funció.
+
+
+▪ Defineix trames: Aquesta funció està associada amb la capa 2, la Capa de D'enllaç de Dades. Aquesta capa és responsable de la segmentació de les dades en trames, que són les unitats bàsiques de dades que es transmeten a través del mitjà físic. El protocol Ethernet és un exemple de protocol de la Capa de D'enllaç de Dades.
+
+
+▪ Ofereix a l'usuari serveis com el correu electrònic i la transferència d'arxius: Aquesta funció és part de la Capa 7, la Capa d'Aplicació, on les aplicacions interactuen directament amb els usuaris i ofereixen serveis com el correu electrònic, transferència d'arxius, navegadors web, etc.
+
+
+▪ Transmissió d'un flux de bits a través del mitjà físic: AIxò és part de la Capa 1, la Capa Física, la qual es preocupa de la transmissió dels bits a través del mitjà físic, com ara cables o ones de ràdio, sense preocupar-se de la interpretació dels bits. Aquí, les dades són transformades en senyals físiques que poden ser enviats pel mitjà de comunicació.

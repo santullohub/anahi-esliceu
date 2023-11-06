@@ -1,0 +1,22 @@
+﻿TAMANY DELS CARÀCTERS
+
+
+Anahí Santullo Lorenzo
+SIstemes operatius
+
+
+
+
+
+
+
+
+
+
+
+
+a → 1 byte
+é → 2 bytes
+! → 1 byte
+ñ → 2 bytes
+ç → 2 bytes

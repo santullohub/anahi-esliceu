@@ -1,0 +1,94 @@
+﻿________________
+
+ÍNDEX
+
+
+ÍNDEX        2
+● PREGUNTA 1        3
+● PREGUNTA 2        4
+● PREGUNTA 3        5
+● PREGUNTA 4        5
+BIBLIOGRAFÍA        7
+
+
+________________
+
+
+
+
+* PREGUNTA 1
+Cerqueu a Internet els diferents tipus de centrals elèctriques i analitzeu de quin tipus són les que es troben a Balears (per illes).
+Una central elèctrica és una instal·lació industrial dissenyada per a la generació d'energia elèctrica a gran escala. Aquestes centrals converteixen diferents fonts d'energia en electricitat que pot ser utilitzada per a alimentar llars, negocis, indústries i altres aplicacions. 
+Existeixen diversos tipus de centrals elèctriques, cadascuna emprant una font d'energia diferent per a generar electricitat. Algunes de les fonts d'energia comunes fetes servir en centrals elèctriques inclouen el carbó, el petroli, el gas natural, l'energia hidroelèctrica, l'energia eòlica, l'energia solar i l'energia nuclear.
+A Mallorca existeixen tres centrals tèrmiques principals: Son Reus (cicle combinat), Cas Tresorer (gas natural), i Es Murterar (tèrmica). A Eivissa hi ha una central tèrmica. A Menorca hi existeixen 4 centrals: central tèrmica de Maó (gasolina), parc solar de Son Salomó (solar), parc eòlic Es Milà (eòlica) i el parc solar de Binissafúller (solar).
+Les centrals tèrmiques, també trucades termoelèctriques, utilitzen combustibles fòssils (gas natural, carbó o fuel) per a generar energia elèctrica mitjançant un cicle termodinàmic d'aigua-vapor. Estan compostes de diversos elements que possibiliten la transformació dels combustibles fòssils en energia elèctrica, entre els quals trobem la caldera, les serpentins, la turbina de vapor i el generador.
+Un parc solar, també conegut com a planta solar o planta fotovoltaica, és una instal·lació dissenyada per a capturar l'energia del sol i convertir-la en electricitat mitjançant panells solars. Els seus components principals inclouen panells solars, estructures de suport, sistema de seguiment i control, transformador i connexió a la xarxa.
+Un parc eòlic és una central elèctrica on la producció de l'energia s'aconsegueix a partir de la força del vent, mitjançant aerogeneradors que aprofiten els corrents d'aire. Una forma més de generar energia renovable. Està principalment compost d’aerogeneradors, torres, sistemes de transmissió, sistemes de control i monitoratge, subestació elèctrica i connexió a la xarxa elèctrica.
+
+
+
+
+
+
+
+
+* PREGUNTA 2
+Cerqueu informació sobre les bombetes tradicionals i de baix consum i indiqueu-ne les diferències: Quines diferències de voltatge tenen? I d’eficiència? Quin estalvi comporta canviar totes les bombetes d’una casa per bombetes de baix consum?
+Una bombeta d'incandescència produeix un llum format per una ampolla de vidre, a l'interior del qual hi ha un filament metàl·lic que produeix llum per incandescència en circular-hi corrent elèctric.
+Les bombetes de baix consum són un tipus de bombetes que es classifiquen com a bombetes fluorescents compactes. Funcionen de la mateixa manera que els fluorescents tradicionals, és a dir, s'il·luminen per la calor que generen les descàrregues elèctriques i per la ionització de gasos.
+
+
+En qüestions d'eficiència energètica, les bombetes incandescents són ineficients, ja que al voltant del 90% de l'energia que utilitzen es converteix en calor en lloc de llum, mentre que les bombetes de baix consum, siguin CFL o LED, són molt més eficients, pel fet que poden generar una quantitat similar de llum fent servir una fracció de l'energia que les bombetes incandescents requereixen.
+
+
+Dins la durada de les bombetes trobam que les bombetes incandescents tenen una vida útil relativament curta en comparació amb les bombetes de baix consum. En general, duren al voltant de 1.000 a 2.000 hores, a comparació de les bombetes CFL, que tenen una vida útil generalment entre 8.000 i 10.000 hores. D'altra banda, les bombetes LED tenen una vida útil encara major, sovint més de 25.000 hores.
+
+
+El cost inicial de les bombetes incandescents és generalment més barat. Les bombetes de baix consum, especialment els LEDS, solien ser més cares, però els preus han disminuït significativament en els últims anys. A llarg termini, són més econòmiques a causa del seu menor consum d'energia i major durada.
+
+
+En terminis de temperatura de color i qualitat de llum, les incandescents tenen una temperatura de color càlida i suau que sovint és preferida en unes certes aplicacions d'il·luminació, i les bombetes CFL i LED estan disponibles en una varietat de temperatures de color, des de càlides fins a fredes, la qual cosa permet adaptar la il·luminació segons les preferències personals.
+
+
+Finalment, tenint en compte l’impacte ambiental, les incandescents són menys amigables amb el medi ambient a causa de la seva baixa eficiència energètica i curta vida útil, cosa que significa que es necessiten fabricar i rebutjar més bombetes en un període determinat, mentre que les CFL i LED són més amigables amb el medi ambient gràcies al seu menor consum d'energia i major durada, la qual cosa redueix la quantitat de deixalles i la necessitat de producció constant de noves bombetes.
+
+
+* PREGUNTA 3
+Esbrineu el consum anual del vostre ordinador:  Utilitzeu les tarifes que trobareu a la web d'Endesa. 
+E=P·T                                        E= 2,6·0,127000*=0,3302€KWh
+E= 650W·4                                0,3302·365=120,523€ anuals
+E= 2600W=2,6KWh
+*Preu termini d’energia de la tarifa “Conecta Endesa”
+        
+* PREGUNTA 4
+Investiga què és un SAI, com funciona, per a què s’utilitza, tipus, etc.
+Un SAI, o Sistema d'Alimentació Ininterrompuda, és un dispositiu electrònic dissenyat per proporcionar alimentació elèctrica de reserva a equips informàtics, servidors, equips de telecomunicacions i altres dispositius electrònics en cas de fallada en el subministrament elèctric principal. També es coneix com a UPS, que significa "Uninterruptible Power Supply" en anglès.
+El principal propòsit d'un SAI és protegir els equips i les dades emmagatzemades danyades o perdudes a causa d'interrupcions en el subministrament elèctric. Funciona de la següent manera:
+Càrrega de la bateria: Un SAI té una bateria interna que es manté carregada mentre el subministrament elèctric principal està actiu. Aquesta bateria emmagatzema energia.
+Passatge de l'energia: Quan es produeix una interrupció elèctrica o una fluctuació de tensió fora dels límits acceptables, el SAI entra en acció. Commuta instantàniament a la bateria i comença a proporcionar energia als dispositius connectats.
+Regulació de tensió: Alguns SAI tenen la capacitat de regular la tensió de sortida per assegurar-se que estigui dins dels límits acceptables. Això ajuda a protegir els equips de danys causats per fluctuacions de tensió.
+Temporització: La durada durant la qual el SAI pot proporcionar alimentació als equips dependrà de la capacitat de la bateria i la càrrega connectada. Això pot ser només per a uns minuts (per a una apagada propera) o durar més temps, depenent del SAI.
+Apagada segura: En molts casos, els SAI estan connectats a ordinadors o servidors i tenen software especial que permet apagar els dispositius de manera segura en cas de fallada prolongada en el subministrament elèctric, evitant així la pèrdua de dades o danys als equips.
+
+
+Hi ha diversos tipus de SAI, incloent-hi:
+SAI en línia: Aquests SAI alimenten sempre els dispositius a través de la bateria i utilitzen el corrent altern principal per carregar la bateria. Proporcionen la millor protecció contra fluctuacions de tensió i apagades.
+SAI en línia interactiva: Aquests SAI també alimenten els dispositius a través de la bateria, però regulen la tensió d'entrada sense emprar la bateria quan està dins dels límits acceptables. Això ajuda a estalviar energia de la bateria.
+SAI en línia en temps real: Aquests SAI fan ús de una conversió digital o analògica per acondicionar constantment l'energia elèctrica, proporcionant la millor qualitat d'energia i protecció.
+
+
+En resum, un SAI és un dispositiu crucial per protegir equips i dades en cas d'interrupcions en el subministrament elèctric, oferint una font de reserva d'energia que permet un apagament segur o la continuïtat de les operacions fins que es pugui restaurar la font principal d'energia.
+________________
+
+
+
+
+BIBLIOGRAFÍA
+
+
+https://www.endesa.com/es/luz-y-gas/luz/conecta-de-endesa?int=end:parecomen:owm:eees:cap:eng:arpbl:org:::web::ctp:luz:conectaendesa:end:dis:imt::::mtd::::
+https://www.endesaeduca.com/Endesa_educa_Catalan/recursos-interactivos/produccion-de-electricidad/vii.-las-centrales-electricas
+https://www.fundacionendesa.org/es/educacion/endesa-educa/recursos/centrales-electricas-convencionales/central-termica-convencional
+https://solats.com/parque-solar-que-es/
+https://smartspain.es/parque-fotovoltaico/
+https://www.fundacionendesa.org/es/educacion/endesa-educa/recursos/centrales-renovables/parque-eolico
